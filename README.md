@@ -6,9 +6,7 @@
 
 ## About Me
 
-Senior Technical Writer with 11+ years of experience crafting clear, concise, and user-friendly documentation for diverse software solutions, including ERP systems (HARVESTPlus, HARVEST.Net, Nymbl Suite ERP), cloud-based software (eMRO), retail management systems (Micro Retailer), and a range of financial and operational applications (Nymbl QX, QPay, etc.) 
-Expertise in Doc As Code methodologies (Antora, Jekyll), API documentation (Shopify API integration, Nymbl Pay API Integration), and user interface design, utilizing tools such as Microsoft Office Suite, RoboHelp, MadCap Flare, DITA XML, GitLab, GitHub, and Azure DevOps.
-Passionate about creating engaging content that empowers users and simplifies complex technical concepts, demonstrated by a focus on documentation accuracy and usability, which reduces the need for extensive user training, and contributing to the development of intuitive user interfaces.
+Senior Technical Writer with 11+ years of experience crafting clear, concise, and user-friendly documentation for diverse software solutions. Expertise in Doc As Code methodologies, API documentation, and user interface design. Passionate about creating engaging content that empowers users and simplifies complex technical concepts.
 
 
 ## Technical Skills
