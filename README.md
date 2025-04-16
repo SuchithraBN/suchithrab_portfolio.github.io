@@ -1,6 +1,6 @@
 # Hi, I'm Suchithra Balachandran 👋
 
-[![LinkedIn](https://www.linkedin.com/in/suchithra-balachandran-41927a3a)]([Your LinkedIn Profile URL])  
+[![LinkedIn](https://www.linkedin.com/in/suchithra-balachandran-41927a3a)](https://www.linkedin.com/in/suchithra-balachandran-91635b2ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 [![Portfolio]([Link to your website if you have one])]
 
 ## About Me
