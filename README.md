@@ -2,7 +2,7 @@
 
 [LinkedIn](https://www.linkedin.com/in/suchithra-balachandran-91635b2ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-[Email](mailto:Suchithrabn21@gmail.com)
+[Email](mailto:suchithrabn21@gmail.com)
 
 ## About Me
 
